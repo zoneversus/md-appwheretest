@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/menu_map"
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_map"
+        android:iconTint="@color/colorWhite"/>
+    <item android:title="@string/menu_ubication"
+        android:id="@+id/action_ubication"
+        android:icon="@drawable/ic_near_me"
+        android:iconTint="@color/colorWhite"/>
+    <item android:title="@string/menu_add_ubication"
+        android:id="@+id/action_add_ubication"
+        android:icon="@drawable/ic_add_location"
+        android:iconTint="@color/colorWhite"/>
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppWhere</string>
+    <string name="menu_map">Mapa</string>
+    <string name="menu_ubication">Ubicaciones</string>
+    <string name="menu_add_ubication">Agregar ubicacion</string>
+
+    <string name="title_login">Login user</string>
+
+    <string name="hint_user">Correo electronico</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_direction">Direccion</string>
+    <string name="hint_phone">Telefono</string>
+    <string name="hint_latitude">Latitud</string>
+    <string name="hint_longitude">Longitud</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_continue">Continuar</string>
+</resources>
