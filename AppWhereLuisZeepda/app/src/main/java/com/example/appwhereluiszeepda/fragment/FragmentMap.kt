@@ -55,7 +55,7 @@ class FragmentMap : Fragment(), OnMapReadyCallback {
         }
     }
     fun setMarks(lista:List<MerchantModel>){
-        for (i in 0 until lista.size-1){
+        for (i in 0 until lista.size){
             val mark = LatLng(lista[i].latitude, lista[i].logitude)
             mMap.addMarker(MarkerOptions().position(mark).title(lista[i].merchantName))
 
